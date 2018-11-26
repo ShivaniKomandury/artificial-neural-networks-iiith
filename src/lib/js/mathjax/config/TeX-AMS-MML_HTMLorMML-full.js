@@ -12,6 +12,8 @@
  *      http://www.apache.org/licenses/LICENSE-2.0
  */
 
+<script type="text/javascript" async src="path-to-MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 MathJax.Hub.Config({delayJaxRegistration: true});
 
 MathJax.Ajax.Preloading(
